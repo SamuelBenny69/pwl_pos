@@ -7,7 +7,7 @@
         <title>DB Facade</title>
     </head>
     <body>
-        <h1>Data level pengguna</h1>
+        <h1>Level pengguna</h1>
         <table border="1" cellpadding="2" cellspacing="0">
             <tr>
                 <th>ID</th>
